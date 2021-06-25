@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Nate
-- 👀 I’m interested in Game Development and Software Engineering
+- 👀 I’m interested in Game Development, Web Development and Software Engineering
 - 🌱 I’m currently learning C#/Unity and Golang
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me: twitter.com/reallymenate || ohhnate@gmail.com
