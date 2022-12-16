@@ -1,7 +1,7 @@
-- 👋 Hi, I'm Nate
-- 👀 I’m interested in Game Development, Web Development and Software Engineering
-- 🌱 I mostly use C#/.Net/Unity and Go
-- 💞️ I’m looking to collaborate on nothing at the moment
+- 👋 Hi, I go by Nate
+- 👀 I am interested in Game Development and Software Engineering
+- 🌱 I am most proficient with C#/.Net/Unity and Go
+- 💞️ Feel free to email me for any collaboraion opportunities
 - 📫 How to reach me: ohhnate@gmail.com
 
 <!---
