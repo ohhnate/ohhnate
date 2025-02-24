@@ -6,18 +6,18 @@ Creating immersive experiences through code and game design
 ## 🛠️ Technical Arsenal
 
 ### 🎮 Game Development
-![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godot-engine&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+[![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)](https://unity.com/)
+[![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godot-engine&logoColor=white)](https://godotengine.org/)
+[![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
 
 ### 🌐 Web Stack
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=.net&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+[![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/apps/aspnet)
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://react.dev/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/en)
 
 ### 🗄️ Databases
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
 
 ---
 
