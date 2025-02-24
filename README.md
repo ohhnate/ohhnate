@@ -1,37 +1,68 @@
-# Hi there! 👋 I'm Nate
+# 👋 Hi, I'm Nate 
 
-## About Me
-I'm a passionate developer focused on game development and software engineering. I love creating interactive experiences and solving complex problems through code.
+**Game Developer | Full-Stack Engineer | Problem Solver**  
+Creating immersive experiences through code and game design
 
-## 🎮 Technical Expertise
-- **Game Development:** Proficient in Unity and Godot engines
-- **Programming:** Advanced C# and .NET development
-- **Web Development:** Full-stack development with ASP.NET Core and Blazor
-- **Database:** Experience with SQL and SQLite
+---
 
-## 🌱 Current Focus
-Currently expanding my expertise in game development and robust software solutions. I'm particularly interested in:
-- Performance optimization in Unity/Godot
-- Clean architecture in game development
-- .NET 9 best development practices
+## 📊 GitHub Stats
 
-## 💼 Looking For
-- Collaboration opportunities in game development
-- Open source projects in the .NET ecosystem
-- Knowledge sharing and mentorship
+| **Metric**       | **Stats**       |
+|-------------------|-----------------|
+| 🏆 Total Stars    | 19              |
+| 📝 Total Commits  | 32 (2023)       |
+| 🔀 PRs Submitted  | 12              |
+| 🐛 Issues Opened  | 1               |
+| 🤝 Contributed to | 1 repo          |
 
-## 📫 Let's Connect!
-- Email: ahnate@proton.me
-- Portfolio: [WIP]
+---
 
-## 🎯 Fun Facts
-- Passionate about creating games with friends that challenge and inspire me
-- Advocate for clean, maintainable, and scalable code
-- Always eager to learn and share knowledge with others
+## 🛠️ Technical Arsenal
 
-> "Every line of code I write today makes tomorrow's impossible game possible"
+### 🎮 Game Development
+![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godot-engine&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 
-<!---
-ohhnate/ohhnate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🌐 Web Stack
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=.net&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+
+### 🗄️ Databases
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+
+---
+
+## 🚀 Current Pursuits
+
+- **Optimizing** game performance in Unity/Godot
+- **Implementing** clean architecture patterns in game dev
+- **Mastering** .NET 9 ecosystem advancements
+- **Exploring** multiplayer game development
+
+---
+
+## 🤝 Collaboration Opportunities
+
+- Open-source game projects using C#/.NET
+- Performance optimization challenges
+- Game jam partnerships
+- Mentorship exchanges
+
+---
+
+## 📬 Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-8B89CC?logo=protonmail&logoColor=white)](mailto:ahnate@proton.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-fuller1/)
+[![Itch.io](https://img.shields.io/badge/Portfolio-FA5C5C?logo=itch.io&logoColor=white)](https://samuelnate.com)
+
+---
+
+## 💡 Fun Facts
+
+- 🔁 Obsessed with clean, maintainable code architecture
+- 🎲 Regularly host game development challenges with friends
+- 🧠 Believe in: "Code is poetry, but only if it's readable"
