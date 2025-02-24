@@ -3,20 +3,6 @@
 **Game Developer | Full-Stack Engineer | Problem Solver**  
 Creating immersive experiences through code and game design
 
----
-
-## 📊 GitHub Stats
-
-| **Metric**       | **Stats**       |
-|-------------------|-----------------|
-| 🏆 Total Stars    | 19              |
-| 📝 Total Commits  | 32 (2023)       |
-| 🔀 PRs Submitted  | 12              |
-| 🐛 Issues Opened  | 1               |
-| 🤝 Contributed to | 1 repo          |
-
----
-
 ## 🛠️ Technical Arsenal
 
 ### 🎮 Game Development
