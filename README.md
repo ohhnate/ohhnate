@@ -9,14 +9,14 @@ low-level systems, and building things that hold up under pressure.
 
 ## What I work with
 
-**Systems / Game Dev** — C++, C#, Unity, Godot, MonoGame, Vulkan, OpenGL  
-**Web / Cloud** — Python, Django, .NET Core, AWS, Redis, Docker  
-**Tooling** — Git, Jira, CI/CD
+**Systems / Game Dev** - C++, C#, Unity, Godot, MonoGame, Vulkan, OpenGL  
+**Web / Cloud** - Python, Django, .NET Core, AWS, Redis, Docker  
+**Tooling** - Git, Jira, CI/CD
 
 ## Open source
 
-- **[BestoNet](https://github.com/BestoGames/BestoNet)** — GGPO-inspired rollback netcode library for Unity
-- **BestoEngine** — Custom 2D engine in C# on MonoGame; ECS, fixed-point math, deterministic simulation
+- **[BestoNet](https://github.com/BestoGames/BestoNet)** - Open Source GGPO-inspired rollback netcode library
+- **BestoEngine** - Custom 2D engine in C# on MonoGame; ECS, fixed-point math, deterministic simulation
 
 ## Contact
 
