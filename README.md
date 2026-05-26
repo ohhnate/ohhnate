@@ -1,54 +1,24 @@
-# 👋 Hi, I'm Nate 
+# Hi, I'm Nate
 
-**Game Developer | Full-Stack Engineer | Problem Solver**  
-Creating immersive experiences through code and game design
+Software engineer at AWS working on distributed block storage (EBS). Before that, 
+I spent several years as a systems programmer on [Idol Showdown](https://store.steampowered.com/app/1742020/Idol_Showdown/), 
+a fighting game with 1.2M+ downloads.
 
-## 🛠️ Technical Arsenal
+Most of my work lives in C++ and C#. I care a lot about correctness, 
+low-level systems, and building things that hold up under pressure.
 
-### 🎮 Game Development
-[![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)](https://unity.com/)
-[![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godot-engine&logoColor=white)](https://godotengine.org/)
-[![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
+## What I work with
 
-### 🌐 Web Stack
-[![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/apps/aspnet)
-[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://react.dev/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/en)
+**Systems / Game Dev** — C++, C#, Unity, Godot, MonoGame, Vulkan, OpenGL  
+**Web / Cloud** — Python, Django, .NET Core, AWS, Redis, Docker  
+**Tooling** — Git, Jira, CI/CD
 
-### 🗄️ Databases
-[![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
+## Open source
 
----
+- **[BestoNet](https://github.com/BestoGames/BestoNet)** — GGPO-inspired rollback netcode library for Unity
+- **BestoEngine** — Custom 2D engine in C# on MonoGame; ECS, fixed-point math, deterministic simulation
 
-## 🚀 Current Pursuits
+## Contact
 
-- **Optimizing** game performance in Unity/Godot
-- **Implementing** clean architecture patterns in game dev
-- **Mastering** .NET 9 ecosystem advancements
-- **Exploring** multiplayer game development
-
----
-
-## 🤝 Collaboration Opportunities
-
-- Open-source game projects using C#/.NET
-- Performance optimization challenges
-- Game jam partnerships
-- Mentorship exchanges
-
----
-
-## 📬 Let's Connect
-
-[![Email](https://img.shields.io/badge/Email-8B89CC?logo=protonmail&logoColor=white)](mailto:ahnate@proton.me)
+[![Email](https://img.shields.io/badge/Email-8B89CC?logo=protonmail&logoColor=white)](mailto:ahnate@pm.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-fuller1/)
-[![Itch.io](https://img.shields.io/badge/Portfolio-FA5C5C?logo=itch.io&logoColor=white)](https://samuelnate.com)
-
----
-
-## 💡 Fun Facts
-
-- 🔁 Obsessed with clean, maintainable code architecture
-- 🎲 Regularly host game development challenges with friends
-- 🧠 Believe in: "Code is poetry, but only if it's readable"
