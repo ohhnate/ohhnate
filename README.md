@@ -1,7 +1,7 @@
 # Hi, I'm Nate
 
 Software engineer at AWS working on distributed block storage (EBS). Before that, 
-I spent several years as a systems programmer on [Idol Showdown](https://store.steampowered.com/app/1742020/Idol_Showdown/), 
+I spent several years as a core systems programmer on [Idol Showdown](https://store.steampowered.com/app/1742020/Idol_Showdown/), 
 a fighting game with 1.2M+ downloads.
 
 Most of my work lives in C++ and C#. I care a lot about correctness, 
