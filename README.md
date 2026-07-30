@@ -5,7 +5,7 @@ I spent several years as a systems programmer on [Idol Showdown](https://store.s
 a fighting game with 1.2M+ downloads.
 
 Most of my work lives in C++ and C#. I care a lot about correctness, 
-low-level systems, and building things that hold up under pressure.
+low-level systems, and building neat things.
 
 ## What I work with
 
